@@ -6,6 +6,7 @@ public class Class01 {
         System.out.println("Version 1 için işlemler tamam!");
 
 
+
     }
 
 
