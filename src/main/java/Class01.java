@@ -7,6 +7,7 @@ public class Class01 {
 
         //v7 çalışmaları
         //Github değişiklikleri
+        //V8
 
     }
 
